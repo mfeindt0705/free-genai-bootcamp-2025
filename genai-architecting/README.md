@@ -1,7 +1,7 @@
 
 # GenAI Architecting Project 
 
-This README outlines the concepts behind the GEnAI Bootcamp Architecting Project.
+This README outlines the concepts behind the GenAI Bootcamp Architecting Project.
 
 
 ## Business Requirements
@@ -17,11 +17,12 @@ There is a need to keep the implementation platform independent. Primary goal is
 
 ## Assumptions
 
+we are starting the project with the assumption that the app will be used by multiple users at a time. the goal is to use an open-source LLM. If this approach is not successful we will have to switch to a proprietary LLM.
 
 
 ## Constraints
 
-the portal will respect copyright laws and adhere to privacy standards
+the portal will respect copyright laws and adhere to privacy standards. 
 
 
 ## Data Strategy
